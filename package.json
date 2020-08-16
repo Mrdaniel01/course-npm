@@ -1,7 +1,7 @@
 {
   "name": "curso-npm-juanrios",
   "version": "1.0.0",
-  "description": "",
+  "description": "Would you like to have a random name? Here you are! ",
   "main": "index.js",
   "dependencies": {
     "user": "0.0.0"
